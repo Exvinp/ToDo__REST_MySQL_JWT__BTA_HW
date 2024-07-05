@@ -63,7 +63,7 @@ PUT - Create user
 POST - Login
 {
 	"email": "asd@asd.com",
-    "password": "asd"
+	"password": "asd"
 }
 
 ---------------------------------------------------------
@@ -115,4 +115,4 @@ PATCH - Delete a task
 
 ## License
 
-created by Norbert Bódi, MIT](https://choosealicense.com/licenses/mit/)
+created by Norbert Bódi, [MIT](https://choosealicense.com/licenses/mit/)
