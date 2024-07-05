@@ -1,0 +1,8 @@
+{
+  "env": {
+    "SQL_USERNAME": "root",
+    "SQL_USER_PASSWORD": "asdasd",
+    "SQL_DEFAULT_DATABASE": "todos",
+    "SQL_HOST": "localhost"
+  }
+}
